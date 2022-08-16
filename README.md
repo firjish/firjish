@@ -1,6 +1,8 @@
 ### Hai
+![foto keterangan](/f94bca680305fcc84ef2fd6db53f4606.mp4)
+![foto keterangan](/Firji.jpg)
 
-<!--
+<!-- 
 **firjish/firjish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
